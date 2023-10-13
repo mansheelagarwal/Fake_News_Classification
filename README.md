@@ -1,5 +1,5 @@
 # Fake News Detector README
-
+![19 Common Misconceptions About Botkeeper](https://github.com/mansheelagarwal/Fake_News_Classification/assets/76102724/05a77875-082b-4cf4-95d5-1f25b004c3fd)
 ## Introduction
 
 In this repository, I've developed a robust tool to distinguish between fake news and genuine news articles. In this README, I'll provide you with an overview of the project's capabilities, a brief explanation of how it works, and snippets of the key aspects of the implementation.
