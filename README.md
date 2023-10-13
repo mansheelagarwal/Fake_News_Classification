@@ -1,26 +1,14 @@
 # Fake News Detector README
 ![19 Common Misconceptions About Botkeeper](https://github.com/mansheelagarwal/Fake_News_Classification/assets/76102724/05a77875-082b-4cf4-95d5-1f25b004c3fd)
-## Introduction
+## Fake News and the problems that come with it
+In a world of negativity and ruse, what's worse is to not do anything about rumors and headlines that are just well-calculated ways to capture clout and earn tentative fame. Gaining inspiration from **krishnaik06**, I designed a Fake News Classifier using the following concepts:
+- **Word Embedding**: in calculating the semantics association between words by converting the textual data to numeral vectors
+- **One-Hot Encoding**: in transforming the categorical attributes into binary vectors which acts as an input to the LSTM model
+- **LSTM**: in finally classifying the news into fake or not by processing the encoded data
+Please find the ipnyb files for each attached to this project merely for brushing up on concepts.
+## Note for viewers
+I have chosen not to make the code of this project publicly available because the development process closely followed the methodology demonstrated by Krish Naik. As this project was primarily an experiment and closely mirrored the work of Mr. Naik, I believe that making it publicly accessible would amount to replicating his efforts. I respect his work and do not intend to present a derivative of it as an original creation. 
 
-In this repository, I've developed a robust tool to distinguish between fake news and genuine news articles. In this README, I'll provide you with an overview of the project's capabilities, a brief explanation of how it works, and snippets of the key aspects of the implementation.
-
-## Project Overview
-
-The Fake News Detector utilizes advanced natural language processing techniques, including word embedding, one-hot representation, and Long Short-Term Memory (LSTM) networks, to accurately classify news articles. My primary goal is to identify reliable news sources and combat misinformation.
-
-## Distinctive Features
-
-Make use of these concepts by referring to the .py files available in this repository
-
-- **Word Embedding**: I made use of word embedding techniques, transforming textual data into compact numerical vectors that capture nuanced semantic associations between words.
-
-- **One-Hot Encoding**: Categorical attributes are transformed into binary vectors through one-hot encoding, ensuring a rich and informative input for my LSTM-based model.
-
-- **LSTM-Based Classification**: At the heart of my system is the LSTM network, a highly adaptable neural network architecture adept at processing the encoded data, enabling it to model sequence patterns and context for precise classifications.
-
-## Acknowledgments
-
-I extend my appreciation to **krishnaik06** for conceiving the initial project idea.
 
 
 
